@@ -1,0 +1,22 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="winmangotiletitlekey" value="SampleApp"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="tabletstartupformkey" value="frmHome"/>
+    <attributes name="andtargetsdkkey" value="2.3.3"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="mwaddrkey" value="10.12.49.88"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.SampleApp"/>
+    <attributes name="createdgaversion" value="5.5.0"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="appidkey" value="SampleApp"/>
+    <attributes name="currentgaversion" value="5.5.1.GA_v201401031652"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="apppackagekey" value="com.orgname.SampleApp"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appnamekey" value="SampleApp"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+</properties>

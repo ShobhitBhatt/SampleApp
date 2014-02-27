@@ -1,0 +1,55 @@
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - jetty-6.1.11
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - No Transaction manager found - if your webapp requires one, please configure one.
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - Started {}
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - SelectChannelConnector@0.0.0.0:62011
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - Started {}
+26 Feb 2014/11:27:05  INFO kony.JettyLOG - SslSocketConnector@0.0.0.0:62012
+26 Feb 2014/11:27:09  INFO kony.JettyLOG - Shutdown hook executing
+26 Feb 2014/11:27:09  INFO kony.JettyLOG - Shutdown hook complete
+26 Feb 2014/11:30:49  INFO kony.JettyLOG - jetty-6.1.11
+26 Feb 2014/11:30:50  INFO kony.JettyLOG - No Transaction manager found - if your webapp requires one, please configure one.
+26 Feb 2014/11:30:50  INFO kony.JettyLOG - Started {}
+26 Feb 2014/11:30:50  INFO kony.JettyLOG - SelectChannelConnector@0.0.0.0:62107
+26 Feb 2014/11:30:50  INFO kony.JettyLOG - Started {}
+26 Feb 2014/11:30:50  INFO kony.JettyLOG - SslSocketConnector@0.0.0.0:62108
+26 Feb 2014/11:30:58  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/11:30:59  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/11:30:59  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/11:30:59  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/11:31:03  INFO kony.JettyLOG - Shutdown hook executing
+26 Feb 2014/11:31:03  INFO kony.JettyLOG - Shutdown hook complete
+26 Feb 2014/12:11:00  INFO kony.JettyLOG - jetty-6.1.11
+26 Feb 2014/12:11:00  INFO kony.JettyLOG - No Transaction manager found - if your webapp requires one, please configure one.
+26 Feb 2014/12:11:01  INFO kony.JettyLOG - Started {}
+26 Feb 2014/12:11:01  INFO kony.JettyLOG - SelectChannelConnector@0.0.0.0:8888
+26 Feb 2014/12:11:01  INFO kony.JettyLOG - Started {}
+26 Feb 2014/12:11:01  INFO kony.JettyLOG - SslSocketConnector@0.0.0.0:8443
+26 Feb 2014/12:11:11  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/12:11:11  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/12:11:11  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/12:11:11  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/12:11:16  INFO kony.JettyLOG - Shutdown hook executing
+26 Feb 2014/12:11:16  INFO kony.JettyLOG - Shutdown hook complete
+26 Feb 2014/16:56:13  INFO kony.JettyLOG - jetty-6.1.11
+26 Feb 2014/16:56:13  INFO kony.JettyLOG - Started {}
+26 Feb 2014/16:56:13  INFO kony.JettyLOG - SelectChannelConnector@0.0.0.0:8888
+26 Feb 2014/16:56:14  INFO kony.JettyLOG - Started {}
+26 Feb 2014/16:56:14  INFO kony.JettyLOG - SslSocketConnector@0.0.0.0:8443
+26 Feb 2014/16:56:24  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/16:56:24  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/16:56:25  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/16:56:25  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/16:56:30  INFO kony.JettyLOG - Shutdown hook executing
+26 Feb 2014/16:56:30  INFO kony.JettyLOG - Shutdown hook complete
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - jetty-6.1.11
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - No Transaction manager found - if your webapp requires one, please configure one.
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - Started {}
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - SelectChannelConnector@0.0.0.0:8888
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - Started {}
+26 Feb 2014/17:17:34  INFO kony.JettyLOG - SslSocketConnector@0.0.0.0:8443
+26 Feb 2014/17:17:43  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/17:17:43  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/17:17:43  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/17:17:43  INFO tool.CGE - Application Context given by IDE, already created and still alive
+26 Feb 2014/17:17:47  INFO kony.JettyLOG - Shutdown hook executing
+26 Feb 2014/17:17:47  INFO kony.JettyLOG - Shutdown hook complete
