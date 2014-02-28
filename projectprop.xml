@@ -7,7 +7,7 @@
     <attributes name="andtargetsdkkey" value="2.3.3"/>
     <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
     <attributes name="mwaddrkey" value="10.12.49.88"/>
-    <attributes name="iphonebundleidentifierkey" value="com.kony.SampleApp"/>
+    <attributes name="iphonebundleidentifierkey" value="com.infostretch.SampleApp"/>
     <attributes name="createdgaversion" value="5.5.0"/>
     <attributes name="build" value="debug"/>
     <attributes name="appidkey" value="SampleApp"/>
