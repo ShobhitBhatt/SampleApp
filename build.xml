@@ -7,7 +7,7 @@
 		<taskdef resource="net/sf/antcontrib/antcontrib.properties"> 
 		<classpath>
 			<pathelement location="${antjar.file}"/>  
-		</classpath>
+		</classpath> 
 		</taskdef>
 		<osfamily property="os.family"/>	
 	<echo message="Started script..."/>  
