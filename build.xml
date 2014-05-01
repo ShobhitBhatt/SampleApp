@@ -114,7 +114,7 @@
     			<arg value="${ws.location}"/>
     			<arg value="${eclipse.equinox.path}"/>
     			<arg value="${global.file}"/>
-    		</exec>
+    		</exec> 
     	</then>
     	<else>
 	        <exec dir="." executable="/bin/bash" failonerror="true">
