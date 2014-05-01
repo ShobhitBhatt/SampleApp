@@ -26,7 +26,7 @@
 	 	
 	<if>
 	 <equals arg1="${global.available}" arg2="true"/>
-		<then> 
+		<then>  
 			<property name="global.file" location="${basedir}/global.properties"/>
 		</then>
 		<else>
