@@ -33,7 +33,7 @@
 			<property name="global.file" location="../global.properties"/>
 		</else>
 	</if> 
-	
+	 
 	
 	<echo message="Global properties file LOCATION: ${global.file}"/>
 	<echo message="Build properties file LOCATION: ${input.file}"/>
