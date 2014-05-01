@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <project name="kony" basedir="." default="main">
 	
-	<target name="main">
+	<target name="main"> 
 	    <property name="antjar.file" value="${basedir}/ant-contrib-0.6.jar"/>
 		<echo message="Looking for JAR antcontrib.jar at : ${antjar.file}"/>
 		<taskdef resource="net/sf/antcontrib/antcontrib.properties"> 
