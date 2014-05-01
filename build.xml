@@ -13,7 +13,7 @@
 	<echo message="Started script..."/>  
 	<property name="input.file" location="${basedir}/build.properties"/>
 	
-	<if> 
+	<if>  
     <available file="${basedir}/global.properties"/>
     <then>
       <property name="global.available" value="true"/>
