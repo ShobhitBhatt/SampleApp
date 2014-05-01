@@ -23,7 +23,7 @@
 	</else>
 	</if> 
 	
-		
+	 	
 	<if>
 	 <equals arg1="${global.available}" arg2="true"/>
 		<then> 
