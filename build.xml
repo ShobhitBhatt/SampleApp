@@ -58,7 +58,7 @@
 	<property file="${global.file}"/>	
 		
 	
-	<if>
+	<if> 
 		<equals arg1="${workspace.location}" arg2=""/>
 		<then>
 			<property name = "ws.location" value ="../" />
