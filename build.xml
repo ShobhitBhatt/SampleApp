@@ -40,7 +40,7 @@
 	
 	<if>
 		<or>
-			<not>
+			<not> 
 				<available file="${input.file}"/>
 			</not>
 			<not>
