@@ -10,7 +10,7 @@
 		</classpath>
 		</taskdef>
 		<osfamily property="os.family"/>	
-	<echo message="Started script..."/>
+	<echo message="Started script..."/> 
 	<property name="input.file" location="${basedir}/build.properties"/>
 	
 	<if>
