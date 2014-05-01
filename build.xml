@@ -6,7 +6,7 @@
 		<echo message="Looking for JAR antcontrib.jar at : ${antjar.file}"/>
 		<taskdef resource="net/sf/antcontrib/antcontrib.properties"> 
 		<classpath>
-			<pathelement location="${antjar.file}"/>  
+			<pathelement location="${antjar.file}"/>   
 		</classpath> 
 		</taskdef>
 		<osfamily property="os.family"/>	
