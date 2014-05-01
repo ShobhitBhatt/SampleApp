@@ -66,7 +66,7 @@
 		<else>
 			<property name = "ws.location" value ="${workspace.location}"/>
 		</else>
-	</if>	
+	</if>	 
 	<echo message="WORKSPACE LOCATION: ${ws.location}"/>	
 	<if>
 		<equals arg1="${project.name}" arg2=""/>
