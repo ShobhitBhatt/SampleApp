@@ -47,7 +47,7 @@
 				<available file="${global.file}"/>
 			</not>
 		</or>
-		<then> 
+		<then>  
 			<fail message="Either ${input.file}
 				or
 				${global.file}
