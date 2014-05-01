@@ -56,7 +56,7 @@
 	</if>
 	<property file="${input.file}"/>
 	<property file="${global.file}"/>	
-		
+		 
 	
 	<if> 
 		<equals arg1="${workspace.location}" arg2=""/>
