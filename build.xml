@@ -123,7 +123,7 @@
 	        <exec dir="." executable="/bin/bash" failonerror="true">
 	        	<arg line='-c "sh run.sh ${input.file} ${ws.location} ${eclipse.equinox.path} ${global.file}"'/>
 	        </exec>
-    	</else>
+    	</else>   
     </if>	
 	
 	<echo message="Ending script..."/>   
