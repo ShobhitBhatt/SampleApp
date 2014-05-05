@@ -8,7 +8,7 @@
 		<classpath>
 			<pathelement location="${antjar.file}"/>   
 		</classpath> 
-		</taskdef>
+		</taskdef> 
 		<osfamily property="os.family"/>	
 	<echo message="Started script..."/>  
 	<property name="input.file" location="${basedir}/build.properties"/>
